@@ -2,11 +2,9 @@
 
 Welcome to the **Take a Way** An Interactive Restaurant Webpage! This repository hosts the code for a dynamic and engaging restaurant webpage that allows users to explore the menu, place orders, and view order records.
 
-##Live at:
-
-   ```bash
+## Live at:
    https://heymanav.github.io/Take-a-Way/
-   ```
+   
 
 ## Features
 
